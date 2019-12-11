@@ -11,22 +11,18 @@ A significant portion of the Security Working Group's mission is achieved by mai
 Although the following ROS subprojects have links to security, they are not governed by the Security Working Group:
  * _TBD_
 
-### Adding New Subprojects
-New subprojects must follow the following workflow to be added to the Security Working Group:
-* Identify a subproject lead and a sub-team to own the subproject.  Single-person subproject teams are allowed.
-* Work with an Approver to scope the project and create a pull request.
-* The subproject lead must introduce the new subproject at the next Security Working Group meeting; the pull request may or may not be queued until the meeting.
-
-### Maintaining Subprojects
-Approved subprojects must these criteria:
-* Build passes against ROS2 master
-* The ROS2 standard linter set is enabled and adhered to
-* Builds have 0 warnings
-* Quality builds are green (address sanitizer, thread sanitizer, clang thread safety analysis)
-* Test suite passes
-* Reasonable* code coverage is met by test suites
-* Issues are responded to promptly*
-* Releases go out regularly* when bugfixes or new features are introduced
+### Adding and Maintaining Subprojects
+Subprojects must meet the following criteria:
+* An Approver can add or create a new subproject that will be maintained by this working group.
+* A Member should introduce new subprojects at the next Security Working Group meeting
+* Builds must pass against ROS2 master
+* The ROS2 standard linter set must be enabled and adhered to
+* Builds must have 0 warnings
+* Quality builds must be green (address sanitizer, thread sanitizer, clang thread safety analysis)
+* Test suite must pass
+* Reasonable* code coverage must be met by test suites
+* Issues must be responded to promptly*
+* Releases must go out regularly* when bugfixes or new features are introduced
 
 _*-Precise definition of term not determined_
 
@@ -54,14 +50,13 @@ Security Working Group members may act in one or more of the following roles:
   * Contributors do not need to particpate in the Working Group beyond contributing code.
 * __Member__:  A participant in Security Working Group discussions.  Responsiblities include:
   * Attending a majority of the Security Working Group meetings
-  * Commenting on pull requests
-  * Any Approver may invite new Member to join the Working Group
   * New members should be recognized at the next Security Working Group meeting
 * __Reviewer__:  Responsible for reviewing pull requests
-  * _TBD_
+  * Review and comment on pull requests
   * Triage vulnerability reports
 * __Approver__:  Responsible for approving pull requests
   * All approvers are also reviewers
+  * Approvers can add members to the Working Group
   * Only approvers can create pull requests
 * __Moderator__:  Responsible for facilitating the governance structure.
   * Granting and removing access
