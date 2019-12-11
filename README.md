@@ -1,5 +1,5 @@
 # ROS 2 Security Working Group
-The Security Working Group's mission is to advocate for and implement security features within ROS 2.  The working group negotiates a balance between the benefits of and the enablement of technology, striving for a secure-by-default design which can be customized to suit a targeted security profile.
+The Security Working Group's mission is to advocate for and implement security features within ROS 2.  The working group negotiates a balance between the benefits of security and the enablement of technology, striving for a secure-by-default design which can be customized to suit a targeted security profile.
 
 This document outlines the governance of the ROS 2 Security Working Group.  Updates to this document will be handled in the same manner as other project updates governed by the Working Group.
 
@@ -49,8 +49,9 @@ This guidelines are designed exclusively to help the Working Group achieve its m
 ### Roles
 Security Working Group members may act in one or more of the following roles:
 * __Contributor__:  A person contributing code to the Security Working Group subprojects
-  * Timely response to comments
-  * Contribute code to one or more subprojects
+  * Timely response to comments.
+  * Contribute code to one or more subprojects.
+  * Contributors do not need to particpate in the Working Group beyond contributing code.
 * __Member__:  A participant in Security Working Group discussions.  Responsiblities include:
   * Attending a majority of the Security Working Group meetings
   * Commenting on pull requests
