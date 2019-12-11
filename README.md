@@ -27,6 +27,11 @@ These guidelines are designed exclusively to help the Working Group achieve its 
 * Meeting notes are kept on the [ROS Wiki](http://wiki.ros.org/ROS2/WorkingGroups/Security)
 * Meetings are recorded and available [on YouTube](https://www.youtube.com/playlist?list=PLpUh4ScdBhSMaEekJ8xeAAGmWUgR9S1K_)
 
+### Communication channel
+The Security Working Group has a few communication channels:
+* ROS Discourse using the [wg-security tag](https://discourse.ros.org/tags/wg-security)
+* Chat using a [Matrix room](https://matrix.to/#/!LcRLnAIRWjSCfZmMeD:matrix.org?via=matrix.org)
+
 ### Roles
 Security Working Group members may act in one or more of the following roles:
 * __Member__
