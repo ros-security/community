@@ -1,10 +1,10 @@
 # ROS 2 Security Working Group
-The Security Working Group's mission is to advocate for and implement security features within ROS 2.  The working group negotiates a balance between the benefits of security and the enablement of technology, striving for a secure-by-default design which can be customized to suit a targeted security profile.
+The Security Working Group's mission is to advocate for and implement security features within ROS 2. The working group negotiates a balance between the benefits of security and the enablement of technology, striving for a secure-by-default design which can be customized to suit a targeted security profile.
 
-This document outlines the governance of the ROS 2 Security Working Group.  Updates to this document will be handled in the same manner as other project updates governed by the Working Group.
+This document outlines the governance of the ROS 2 Security Working Group. Updates to this document will be handled in the same manner as other project updates governed by the Working Group.
 
 ## Subprojects
-A significant portion of the Security Working Group's mission is achieved by maintaining ROS projects.  The following projects are owned by this Working Group:
+A significant portion of the Security Working Group's mission is achieved by maintaining ROS projects. The following projects are owned by this Working Group:
 * _TBD:  list of project names_
 
 ### Adding subprojects
