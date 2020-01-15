@@ -35,7 +35,7 @@ The Security Working Group has a few communication channels:
 ### Roles
 Security Working Group members may act in one or more of the following roles:
 * __Member__
-  * Attend a majority of the Security Working Group meetings
+  * Attend at least one out of the last three Security Working Group meetings
   * Responsible for triaging issues
 * __Reviewer__
   * All reviewers are members
