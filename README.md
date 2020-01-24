@@ -44,5 +44,10 @@ Security Working Group members may act in one or more of the following roles:
   * All approvers are reviewers
   * Responsible for approving and merging pull requests
   * Responsible for vetting and accepting new projects into the Working Group
+* __Lead__
+  * Leader of the working group
+  * Responsible for reviewing membership applications
+  * Responsible for breaking ties
+  * Veto capability
 
-To become a member or change role, create an issue in this repository using the appropriate issue template.
+To become a member or change role, create an issue in this repository using the appropriate issue template. Note that one cannot apply to become __Lead__.
