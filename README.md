@@ -8,7 +8,7 @@ A significant portion of the Security Working Group's mission is achieved by mai
 * _TBD:  list of project names_
 
 ### Adding subprojects
-To request that the Security Working Group take on ownership and maintainership of a particular project, create a new issue in this repository using the appropriate issue template. You may be requested to present your proposal at the next Security Working Group meeting. The Working Group will accept the project upon unanimous agreement by Approvers.
+To request that the Security Working Group take on ownership and maintainership of a particular project, create a new issue in this repository using the appropriate issue template. You may be requested to present your proposal at the next Security Working Group meeting. The Working Group will accept the project upon unanimous agreement from Approvers.
 
 ### Standards for subprojects
 Subprojects must meet the following criteria:
