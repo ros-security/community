@@ -5,7 +5,8 @@ This document outlines the governance of the ROS 2 Security Working Group. Updat
 
 ## Subprojects
 A significant portion of the Security Working Group's mission is achieved by maintaining ROS projects. The following projects are owned by this Working Group:
-* _TBD:  list of project names_
+
+* [SROS2 utilities](https://github.com/ros2/sros2)
 
 ### Adding subprojects
 To request that the Security Working Group take on ownership and maintainership of a particular project, create a new issue in this repository using the appropriate issue template. You may be requested to present your proposal at the next Security Working Group meeting. The Working Group will accept the project upon unanimous agreement from Approvers.
