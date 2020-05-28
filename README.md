@@ -31,7 +31,7 @@ These guidelines are designed exclusively to help the Working Group achieve its 
 The Security Working Group has a few communication channels:
 * ROS Discourse using the [wg-security tag](https://discourse.ros.org/tags/wg-security)
 * Chat using a [Matrix room](https://matrix.to/#/!LcRLnAIRWjSCfZmMeD:matrix.org?via=matrix.org)
-* Join the [ROS Security Working Group](https://groups.google.com/forum/#!forum/ros-security) on google groups
+* Join the [ROS Security Working Group](https://groups.google.com/forum/#!forum/ros-security) on google groups, which is used as a point of contact to reach the WG (e.g. when we get pinged on GitHub).
 
 ### Roles
 Security Working Group members may act in one or more of the following roles:
