@@ -27,11 +27,12 @@ These guidelines are designed exclusively to help the Working Group achieve its 
 * Meeting notes are kept on the [ROS Wiki](http://wiki.ros.org/ROS2/WorkingGroups/Security)
 * Meetings are recorded and available [on YouTube](https://www.youtube.com/playlist?list=PLpUh4ScdBhSMaEekJ8xeAAGmWUgR9S1K_)
 
-### Communication channel
-The Security Working Group has a few communication channels:
-* ROS Discourse using the [wg-security tag](https://discourse.ros.org/tags/wg-security)
-* Chat using a [Matrix room](https://matrix.to/#/!LcRLnAIRWjSCfZmMeD:matrix.org?via=matrix.org)
-* Join the [ROS Security Working Group](https://groups.google.com/forum/#!forum/ros-security) on google groups, which is used as a point of contact to reach the WG (e.g. when we get mentioned on GitHub using @ros-security-wg).
+### Communication channels
+The following venues are public and everyone is welcome to join in working group discussions:
+* Track the [wg-security tag on ROS discourse](https://discourse.ros.org/tags/wg-security)
+* Chat in the [Security WG Room on Matrix](https://matrix.to/#/!LcRLnAIRWjSCfZmMeD:matrix.org?via=matrix.org)
+* Tag the working group on Github using @ros-security-wg
+* Email the working group using the [ROS Security Working Group mailing list](https://groups.google.com/forum/#!forum/ros-security) (this list also receives the @ros-security-wg mentions on Github).
 
 ### Roles
 Security Working Group members may act in one or more of the following roles:
