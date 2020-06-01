@@ -30,10 +30,12 @@ The [chair of this Working Group](https://index.ros.org/doc/ros2/Governance/) is
 * Meetings are recorded and available [on YouTube](https://www.youtube.com/playlist?list=PLpUh4ScdBhSMaEekJ8xeAAGmWUgR9S1K_)
 * Meetings are open to the public, and anyone is welcome to join
 
-### Communication channel
-The Security Working Group has a few communication channels:
-* ROS Discourse using the [wg-security tag](https://discourse.ros.org/tags/wg-security)
-* Chat using a [Matrix room](https://matrix.to/#/!LcRLnAIRWjSCfZmMeD:matrix.org?via=matrix.org)
+### Communication channels
+The following venues are public and everyone is welcome to join in working group discussions:
+* Track the [wg-security tag on ROS discourse](https://discourse.ros.org/tags/wg-security)
+* Chat in the [Security WG Room on Matrix](https://matrix.to/#/!LcRLnAIRWjSCfZmMeD:matrix.org?via=matrix.org)
+* Tag the working group on Github using @ros-security-wg
+* Email the working group using the [ROS Security Working Group mailing list](https://groups.google.com/forum/#!forum/ros-security) (this list also receives the @ros-security-wg mentions on Github).
 
 ### Roles
 Security Working Group members may act in one or more of the following roles:
