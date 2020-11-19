@@ -1,6 +1,6 @@
 # Vulnerability Remediation
 
-This document describes the typical process for remediating security vulnerabilies in ROS 2, including those submitted through the process  described in [REP 2006, ROS 2 Vulnerability Disclosure Policy](https://www.ros.org/reps/rep-2006.html).
+This document describes the typical process for remediating security vulnerabilies in ROS 2, including those submitted through the process described in [REP 2006, ROS 2 Vulnerability Disclosure Policy](https://www.ros.org/reps/rep-2006.html).
 
 ## Roles
 
@@ -24,7 +24,7 @@ These roles generally align with standard definitions in [The CERT Guide to Coor
 
 This process begins with a vulnerability report sent to [security@openrobotics.org](mailto:security@openrobotics.org).
 
-1. **Assign a Coordinator.** Members of the `security` distribution list must reach consensus on the individual to take ownership of the issue. OpenRobotics will assign a Coordinator when consensus cannot be reached.
+1. **Assign a Coordinator.** Members of the `security` distribution list must reach consensus on the individual to take ownership of the issue. Open Robotics will assign a Coordinator when consensus cannot be reached.
 
 1. **Triage.** The Coordinator must quickly determine the severity of the vulnerability.  The Coordinator should perform some or all of these tasks to accurately triage the vulnerability and begin handling the vulnerablity:
 
@@ -72,7 +72,7 @@ This process begins with a vulnerability report sent to [security@openrobotics.o
 
 ### Identifying the Maintainer
 
-If the Maintainer of the vulnerable package is not well known, review recent activity for the package. Contact pull request approver(s) to find a responsible person.
+If the Maintainer of the vulnerable package is not well known, check for a <maintainer> tag in the package's `package.xml` file. Also review recent activity for the package, and contact a recent pull request approver(s) to find a responsible person.
 
 ### Requesting information from the Reporter
 
