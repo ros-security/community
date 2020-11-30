@@ -30,7 +30,7 @@
 
 ## Administrivia
 
-Following a brief discussion, it was decided to move new meeting minutes to the [ros-security/github repo](https://github.com/ros-security/community). Existing meeting minutes in the [ROS wiki](http://wiki.ros.org/ROS2/WorkingGroups/Security) will not be ported.
+Following a brief discussion, it was decided to move new meeting minutes to the [`ros-security/community` Github reposityr](https://github.com/ros-security/community). Existing meeting minutes in the [ROS wiki](http://wiki.ros.org/ROS2/WorkingGroups/Security) will not be ported.
 
 The [vulnerability remediation procedure PR](https://github.com/ros-security/community/pull/8) is still open for comments.
 
@@ -45,13 +45,15 @@ Goal would be to demonstrate "Hey, look, here's an example of a real system that
 This example will also be useful for us to find issues with the security implementation on a complex system to test: CPU / network utilization, what to sign, what to encrypt, overall impact to the system.
 This also becomes a proving ground for NoDL.
 
+Use this implementation to configure security levels per topic, following the ones supported by DDS-Security: NONE, SIGN, ENCRYPT. Currently SROS2 is all or nothing, either all topics are encrypted or no security feature is used at all. See [Tracking ticket #130, "Provide some granularity for individual topic protection"](https://github.com/ros2/sros2/issues/130).
+
 Simulation may be challenging; a simulated implementation may not quite match the real world implementation. However, we should be able to spec the project in stages. Start simple and build upon the demo.
 
 ### Enable DDS security without a file system
 
 The scope of this issue is much wider than just security. Success depends upon buy-in from both the micro-ROS community and from Open Robotics.
 
-The agrees to continue to move the discussion forward to flesh out a design, but not to perform any work on the code at this time.
+The WG agrees to continue to move the discussion forward to flesh out a design, but not to perform any work on the code at this time.
 
 ### [sros2 quality](https://github.com/ros2/sros2/issues/217)
 
@@ -86,7 +88,7 @@ ROS launch status: the initial launch is working but does not include access con
 
 Marco suggested [the Robotics Middleware Framework (RMF)](https://github.com/osrf/rmf_demos) as a reference implementation for ROS security. This should be ready to run with ROS 2; they have already done some work with security as well.
 
-Marco also asked about revoking keys: there's a need to handle that within RMF should an individual robot in a fleet be physically compromised. @JaimeMartin provided [information on CRLs from eProsima](https://fast-dds.docs.eprosima.com/en/latest/fastdds/security/auth_plugin/auth_plugin.html#generating-the-certificate-revocation-list-crl).
+Marco also asked about revoking keys: there's a need to handle that within RMF should an individual robot in a fleet be physically compromised. Jaime provided [information on CRLs from eProsima](https://fast-dds.docs.eprosima.com/en/latest/fastdds/security/auth_plugin/auth_plugin.html#generating-the-certificate-revocation-list-crl).
 
 ## References
 More information about items that were discussed:
