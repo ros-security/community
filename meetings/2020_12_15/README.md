@@ -1,7 +1,7 @@
 # ROS 2 Security Working Group Meeting Minutes
 15 Dec 2020
 
-Meeting Recording (TBD) | [Meeting Announcement](https://discourse.ros.org/t/ros-security-wg-breakout-meeting-invited-talk-on-privaros/17848)
+[Meeting Recording](https://youtu.be/7dLfG4kbMNE) | [Meeting Announcement](https://discourse.ros.org/t/ros-security-wg-breakout-meeting-invited-talk-on-privaros/17848)
 
 ## Agenda
 
