@@ -1,6 +1,6 @@
 # Vulnerability Remediation
 
-This document describes the typical process for remediating security vulnerabilies in ROS 2, including those submitted through the process  described in [REP 2006, ROS 2 Vulnerability Disclosure Policy](https://www.ros.org/reps/rep-2006.html).
+This document describes the typical process for remediating security vulnerabilies in ROS 2, including those submitted through the process described in [REP 2006, ROS 2 Vulnerability Disclosure Policy](https://www.ros.org/reps/rep-2006.html).
 
 ## Roles
 
@@ -24,7 +24,7 @@ These roles generally align with standard definitions in [The CERT Guide to Coor
 
 This process begins with a vulnerability report sent to [security@openrobotics.org](mailto:security@openrobotics.org).
 
-1. **Assign a Coordinator.** Members of the `security` distribution list must reach consensus on the individual to take ownership of the issue. OpenRobotics will assign a Coordinator when consensus cannot be reached.
+1. **Assign a Coordinator.** Members of the `security` distribution list must reach consensus on the individual to take ownership of the issue. Open Robotics will assign a Coordinator when consensus cannot be reached.
 
 1. **Triage.** The Coordinator must quickly determine the severity of the vulnerability.  The Coordinator should perform some or all of these tasks to accurately triage the vulnerability and begin handling the vulnerablity:
 
@@ -47,13 +47,13 @@ This process begins with a vulnerability report sent to [security@openrobotics.o
       > [Sign the email with the PGP key]
       >
 
-   1. **Coordinator registers a CVE.** Seek help from the [ROS 2 security working group](https://github.com/ros-security/community#communication-channels) if necessary to reserve the CVE. The reserved CVE should not include any detailed information; this will be added after disclosure. All subsequent communications should include the CVE numnber for traceability.
+   1. **Coordinator registers a CVE.** Seek help from the [ROS 2 Security Working Group](https://github.com/ros-security/community#communication-channels) if necessary to reserve the CVE. The reserved CVE should not include any detailed information; this will be added after disclosure. All subsequent communications should include the CVE number for traceability.
 
 1. **Remediation**
 
    1. **Maintainer fixes the vulnerability.** Work should be done locally as much as possible; when the fix is pushed to github the fix becomes visible to the public even though the patch has not been released to users. The final pull request for the fix should include a reference to the CVE in comments for traceability.
 
-   1. **Coordinator tracks to completion.**  This likely will mean periodic update requests to the Maintainer until the Maintainer publishes a fix. Seek assistance from the Security WG if needed.
+   1. **Coordinator tracks to completion.**  This likely will mean periodic update requests to the Maintainer until the Maintainer publishes a fix. Seek assistance from the Security Working Group if needed.
 
    1. **Coordinator plans for vulnerability disclosure.** For high risk vulnerabilities or fixes with significant impact, create a communications plan for patch release and full disclosure. The plan should take input from the Maintainer and the Reporter.
 
@@ -72,7 +72,7 @@ This process begins with a vulnerability report sent to [security@openrobotics.o
 
 ### Identifying the Maintainer
 
-If the Maintainer of the vulnerable package is not well known, review recent activity for the package. Contact pull request approver(s) to find a responsible person.
+If the Maintainer of the vulnerable package is not well known, check for a <maintainer> tag in the package's `package.xml` file. Also review recent activity for the package, and contact a recent pull request merger to find a responsible person.
 
 ### Requesting information from the Reporter
 
@@ -80,7 +80,7 @@ Reporters may have a wealth of additional details about the vulnerability which 
 
  - Operating system
  - ROS distro
- - ROS package
+ - ROS package and ROS package version
  - Robot that you were testing
  - How to reproduce the issue
  - Do you have / can you provide a git patch to fix the issue?
@@ -101,5 +101,3 @@ Individuals added to the distribution list must adhere to the following principl
  - You must be able to take ownership of reported vulnerabilities and act as the Coordinator through remediation. When high risk vulnerabilities are reported, this means vulnerability coordination becomes your highest priority until a fix is released.
  - You must reach out to the Security Working Group or individual members of the Working group when you need assistance in handling vulnerability reports.
  - You must be able and willing to handle PGP-encrypted email.
-
-
