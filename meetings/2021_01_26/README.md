@@ -19,7 +19,7 @@ Kalle Koivisto,
 [Marco Gutierrez](https://github.com/marcoag),
 [Mikael Arguedas](https://github.com/mikaelarguedas),
 Paul Verhoeckx,
-Ramon Wijnands
+[Ramon Wijnands](https://github.com/Rayman)
 [Roger Strain](https://github.com/roger-strain),
 Rokus Ottervanger,
 [Ruffin White](https://github.com/ruffsl),
