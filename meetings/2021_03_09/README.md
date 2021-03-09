@@ -12,19 +12,17 @@
 
 
 ## Attendees
+
 Gianluca Caiazza,
 [Jacob Hassold](https://github.com/jhdcs),
 [Marco Gutierrez](https://github.com/marcoag),
 Phil Wolff,
 [Roger Strain](https://github.com/roger-strain),
 [Ruffin White](https://github.com/ruffsl),
-[Sid Faber](https://github.com/sidfaber),
+[Sid Faber](https://github.com/sidfaber)
 
 
 ## Administrivia
-
-
-**RECORD ME**
 
 [Meeting minutes for meeting on 23 Feb 2021](https://github.com/ros-security/community/pull/16/files) were approved.
 
