@@ -2,7 +2,7 @@
 
 10 Aug 2021
 
-[Meeting Recording](https://youtu.be/YwpZgNoYsd8) | [Meeting Announcement](https://discourse.ros.org/t/security-working-group-meeting-august-2021)
+[Meeting Recording](https://youtu.be/fkFHfvDDsJg) | [Meeting Announcement](https://discourse.ros.org/t/security-working-group-meeting-august-2021)
 
 ## Agenda
 
