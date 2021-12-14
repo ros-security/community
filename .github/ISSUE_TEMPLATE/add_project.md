@@ -6,8 +6,10 @@ labels: add-project
 assignees: ''
 ---
 
-*Please fill up the following template as thoroughly as possible.
-This will help other members better understand the request and speed up the decision making process.*
+<!--
+Please fill up the following template as thoroughly as possible.
+This will help other members better understand the request and speed up the decision making process.
+-->
 
 ### Description
 - What is this project? (brief description)
@@ -16,9 +18,11 @@ This will help other members better understand the request and speed up the deci
 - How do you expect the Security Working Group to contribute to it?
 
 ### Existing URLs
+<!--
 e.g. https://github.com/some-org/some-project.git
 e.g. https://readthedocs.org/projects/some-project
 e.g. presentation, publication, blog post etc.
+-->
 
 ### Requirements
 - [ ] Builds on ROS 2 master with no warnings
@@ -31,5 +35,5 @@ e.g. presentation, publication, blog post etc.
 - (at)sponsor-2
 
 ### Extra
-*If any*
+<!-- If any -->
 
