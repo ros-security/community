@@ -14,7 +14,7 @@ Gianluca Caiazza
 Guillaume Beuzeboc
 Roger Strain
 Marco Gutierrez
-Victor Mayoral-Vilches
+Victor Mayoral-Vilches | Alias Robotics
 Jeremie Deray (artivis) | Canonical
 Florencia Cabral | Canonical
  
