@@ -1,7 +1,7 @@
 # ROS 2 Security Working Group Meeting Minutes
  
 12 April 2022
-[Meeting Recording](https://www.youtube.com/watch?v=C_3vnW8rQPA) | [Meeting Announcement](https://discourse.ros.org/t/security-working-group-meeting-march-2022/24528)
+[Meeting Recording](https://youtu.be/_PFPi5L1rlk) | [Meeting Announcement](https://discourse.ros.org/t/security-working-group-meeting-march-2022/24528)
  
 ## Agenda
  
