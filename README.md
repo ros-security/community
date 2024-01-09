@@ -51,3 +51,4 @@ Security Working Group members may act in one or more of the following roles:
   * Responsible for vetting and accepting new projects into the Working Group
 
 To become a member or change role, create an issue in this repository using the appropriate issue template. Such applications are accepted upon unanimous agreement from Approvers, and are typically based on the applicant's history with the subprojects of the Working Group.
+Conversely, a member who has been inactive for 3 months and 2 weeks will be automatically considered for the __Member__ role regardless of the current role. At the 3 months mark, the member will be notified of the automatic procedure and will, therefore, have 2 weeks to make a case.
