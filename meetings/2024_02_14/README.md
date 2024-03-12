@@ -8,7 +8,7 @@
 ## Attendees
  
 - Guillaume Beuzeboc (Canonical)
-- Florencia	Cabral (Canonical)
+- Florencia Cabral (Canonical)
 - Patrick Dahlke (Apex.AI)
 - Juhana Helovuo
 - Kalle Koivisto (Unikie)
